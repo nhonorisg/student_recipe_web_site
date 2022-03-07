@@ -12,8 +12,8 @@
 <h1>Captures d'écrans du site</h1>
 <p> Comme le site web est hébergé sur un serveur de l'université et que la base de données est elle aussi sur un SGBD MariaDB de l'université, je vous mets les captures d'écrans du site au lieu de vous mettre l'URL de ce dernier afin d'éviter que vous soyez redirigé sur un lien qui risque d'être inactif car les serveurs sont archivés chaque année.</p>
 
-<img src="./accueil_site_recette.png"/>
-<img src="./aperçu_carte_notice_des_recettes.png"/>
-<img src="./aperçu_info_recette.png"/>
-<img src="./aperçu_formulaire_connexion.png"/>
-<img src="./aperçu_ingredients_etapes.png"/>
+<img src="./sreenshots/accueil_site_recette.png"/>
+<img src="./sreenshots/aperçu_carte_notice_des_recettes.png"/>
+<img src="./sreenshots/aperçu_info_recette.png"/>
+<img src="./sreenshots/aperçu_formulaire_connexion.png"/>
+<img src="./sreenshots/aperçu_ingredients_etapes.png"/>

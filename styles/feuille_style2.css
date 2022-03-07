@@ -1,0 +1,45 @@
+/*
+ce style a été appliqué aux pages:
+    -> connexion
+    -> formulaire de recherche
+    -> création de compte
+*/
+
+body{
+    font-size: 18pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #e3f6f5;
+}
+
+/*style des fomulaires*/
+#form_conn{
+    margin: 3%;
+    width: 30%;
+    padding-left: 20%;
+}
+
+/* style des labels et des inputs*/
+.position{
+    display: block;
+    width: 80%;
+    margin: 2%;
+}
+
+/* style du bouton création de compte*/
+#creation{
+    display: block;
+    border-radius: 1 em solid;
+    background-color: #072448;
+    color: white;
+    width: 75%;
+    height: 20%;
+}
+
+/* style du titre de la recherche avancé et de creation de compte*/
+#titre_avance{
+    text-align: center;
+    color: darkcyan;
+    font-weight: 4em;
+}

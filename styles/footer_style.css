@@ -1,0 +1,21 @@
+footer{
+    padding: 0;
+    margin: 0;
+    background-color:  #072448;
+    height: 150px;
+    text-align: center;
+    width: 100%;
+}
+
+.footer_a{
+    display: inline-block;
+    text-decoration: none;
+    color: ghostwhite;
+    margin: 3%;
+    border-right: 1em white;
+    font-weight: lighter;
+}
+
+.footer_a :hover{
+    color: mediumblue;
+}

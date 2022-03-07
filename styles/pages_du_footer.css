@@ -1,0 +1,25 @@
+body{
+    margin: 0% auto;
+    padding: 0%;
+    background-color: #e3f6f5;
+    width: 60%;
+    font-family:monospace ;
+    font-size: 14pt;
+}
+
+h1, h2, h3{
+    color: darkcyan;
+}
+
+/*que pour la page contact*/
+.contact{
+    text-decoration: none;
+    display: block;
+    margin: 2%;
+    width: 45%;
+    color: #111;
+}
+
+.contact:hover{
+    color:cornflowerblue ;
+}
